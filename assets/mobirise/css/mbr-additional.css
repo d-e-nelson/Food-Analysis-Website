@@ -1677,6 +1677,41 @@ a {
   object-fit: contain;
   border-radius: 0 !important;
 }
+.cid-vgUd14wXmh {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #d4dfe7;
+}
+.cid-vgUd14wXmh .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vgUd14wXmh .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vgUd14wXmh .item-wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+  border-radius: 0 !important;
+}
+@media (max-width: 767px) {
+  .cid-vgUd14wXmh .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vgUd14wXmh .mbr-iconfont {
+  font-size: 3rem;
+  color: #2e481a;
+  padding-right: 2rem;
+}
+.cid-vgUd14wXmh .content-head {
+  max-width: 800px;
+}
 .cid-vgT35dvvEi {
   padding-top: 4rem;
   padding-bottom: 4rem;
