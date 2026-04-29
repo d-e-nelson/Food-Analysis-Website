@@ -1437,7 +1437,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<div class=\"dashboard-wrapper\">\n  <div class=\"dashboard-inner\">\n    <iframe src=\"https://ssafooddashboard-llulqmq4qzvmvu3ontqef9.streamlit.app/?embed=true\">\n    </iframe>\n  </div>\n</div>",
-          "_customCSS": ".dashboard-wrapper {\n  height: 1600px;              /* same as before */\n  background-color: #d4dfe7;   /* 👈 your background fill */\n  display: flex;\n  justify-content: center;     /* center horizontally */\n  align-items: flex-start;     /* align to top */\n  overflow: hidden;\n}\n\n.dashboard-inner {\n  transform: scale(0.95);       /* 👈 adjust this (0.9, 0.85, etc.) */\n  transform-origin: top center;\n  width: 105%;                 /* 👈 MUST be inverse of scale (1 / 0.8 = 1.25) */\n}\n\n.dashboard-inner iframe {\n  width: 100%;\n  height: 1800px;\n  border: none;\n}",
+          "_customCSS": ".dashboard-wrapper {\n  height: 1200px;              /* same as before */\n  background-color: #d4dfe7;   /* 👈 your background fill */\n  display: flex;\n  justify-content: center;     /* center horizontally */\n  align-items: flex-start;     /* align to top */\n  overflow: hidden;\n}\n\n.dashboard-inner {\n  transform: scale(0.95);       /* 👈 adjust this (0.9, 0.85, etc.) */\n  transform-origin: top center;\n  width: 105%;                 /* 👈 MUST be inverse of scale (1 / 0.8 = 1.25) */\n}\n\n.dashboard-inner iframe {\n  width: 100%;\n  height: 1800px;\n  border: none;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
