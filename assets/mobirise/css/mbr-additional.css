@@ -1559,8 +1559,8 @@ a {
 .cid-vhRPvIqbJY .content-head {
   max-width: 800px;
 }
-#custom-html-2g .dashboard-wrapper {
-  height: 1200px;
+#custom-html-5j .dashboard-wrapper {
+  height: 1500px;
   /* same as before */
   background-color: #d4dfe7;
   /* 👈 your background fill */
@@ -1571,14 +1571,14 @@ a {
   /* align to top */
   overflow: hidden;
 }
-#custom-html-2g .dashboard-inner {
+#custom-html-5j .dashboard-inner {
   transform: scale(0.95);
   /* 👈 adjust this (0.9, 0.85, etc.) */
   transform-origin: top center;
   width: 105%;
   /* 👈 MUST be inverse of scale (1 / 0.8 = 1.25) */
 }
-#custom-html-2g .dashboard-inner iframe {
+#custom-html-5j .dashboard-inner iframe {
   width: 100%;
   height: 1800px;
   border: none;
